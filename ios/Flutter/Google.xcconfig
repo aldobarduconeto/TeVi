@@ -1,0 +1,2 @@
+// Replace with the reversed iOS OAuth client ID before enabling Google login.
+GOOGLE_REVERSED_CLIENT_ID = com.googleusercontent.apps.tevi-unconfigured
